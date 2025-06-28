@@ -1,1 +1,3 @@
-# MAVEN
+# maven-project
+
+Demo Maven Project
